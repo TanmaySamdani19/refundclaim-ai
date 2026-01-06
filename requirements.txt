@@ -1,0 +1,12 @@
+crewai
+torch
+transformers
+openai
+pillow
+numpy
+pandas
+python-dotenv
+sentencepiece
+accelerate
+gradio
+bitsandbytes
